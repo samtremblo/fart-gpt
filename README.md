@@ -1,6 +1,6 @@
 # 💨 Fart Chat Bot
 
-A silly chatbot that adds fart noises to AI-generated responses.
+A dumb chatbot that adds fart noises to responses.
 
 ## Quick Start
 
